@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamchrsgllsp
 - 👀 I’m interested in creating apps to continue my learning.
 - 🌱 I’m currently learning Flutter, Python, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any projects to continue my learning
 - 📫 How to reach me iamchrsgllsp@protonmail.com
 
 <!---
